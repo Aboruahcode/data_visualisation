@@ -36,3 +36,7 @@ This project aims to predict the risk of heart failure by analyzing a dataset co
 2. Pairplot- A pair plot, often created using the pairplot function in Seaborn, is a grid of scatterplots that allows one to visualize relationships between pairs of variables in a dataset. It's a quick and effective way to explore the joint distribution of multiple variables and identify patterns, trends, and potential correlations.
 
 ## Prototypes
+<img width="859" alt="Screenshot 2023-11-19 at 12 29 07" src="https://github.com/Aboruahcode/data_visualisation/assets/81387085/fcabb24b-03fa-4622-8b3b-956940a3372b">
+<img width="859" alt="Screenshot 2023-11-19 at 12 29 41" src="https://github.com/Aboruahcode/data_visualisation/assets/81387085/daa7612a-f24d-4252-9b2d-b695c62ba5b9">
+
+
